@@ -19,10 +19,16 @@ td {
 body {
     color: red;
     background-color: blue;
+    padding: 5px;
 }
 
 body> .rows {
     background: white;
     color: red;
     border: 3px solid black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
 }
